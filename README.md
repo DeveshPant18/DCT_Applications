@@ -31,4 +31,4 @@ The work was conducted under the guidance of **Dr. A.K.B. Chand** from the Depar
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dct-compression-project.git
+   git clone https://github.com/DeveshPant18/DCT_Applications.git
